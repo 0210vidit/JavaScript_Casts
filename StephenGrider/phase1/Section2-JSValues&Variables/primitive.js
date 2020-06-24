@@ -25,3 +25,9 @@ console.log(score);
 
 let counter = 0;
 counter++;
+
+const year = 1973;
+
+const pi = 3.14159;
+
+const peopleCount = 10;
